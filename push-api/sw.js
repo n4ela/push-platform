@@ -1,0 +1,1 @@
+importScripts('$DOMAIN/push-api/v1/push.js');
