@@ -1,11 +1,18 @@
 # push-platform
-Заменить во всех файлах
-$DOMAIN - домен где находятся скрипты
-$KEY - ключ от google firebase
-$BINOM_URL - url до трекера
-$SERVER_URL - url до backend для сбора пушей
+Р—Р°РјРµРЅРёС‚СЊ РІРѕ РІСЃРµС… С„Р°Р№Р»Р°С…
 
-Если нужно в файлах:
+$DOMAIN - РґРѕРјРµРЅ РіРґРµ РЅР°С…РѕРґСЏС‚СЃСЏ СЃРєСЂРёРїС‚С‹
+
+$KEY - РєР»СЋС‡ РѕС‚ google firebase
+
+$BINOM_URL - url РґРѕ С‚СЂРµРєРµСЂР°
+
+$SERVER_URL - url РґРѕ backend РґР»СЏ СЃР±РѕСЂР° РїСѓС€РµР№
+
+Р•СЃР»Рё РЅСѓР¶РЅРѕ РІ С„Р°Р№Р»Р°С…:
+
 push-land/18plus/index_desktop.php
+
 push-land/18plus/index_mobile.php
-добавить новые языки
+
+РґРѕР±Р°РІРёС‚СЊ РЅРѕРІС‹Рµ СЏР·С‹РєРё
